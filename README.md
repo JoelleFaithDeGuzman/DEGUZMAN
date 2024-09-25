@@ -18,9 +18,9 @@ samplewebsite
 
         body { 
 
-            font-family: Arial, sans-serif; 
+            font-family: Impact, sans-serif; 
 
-            background-color: #fcd7d7 
+            background-color: #FFB6C1 
 
             margin: 0; 
 
@@ -34,7 +34,7 @@ samplewebsite
 
         header { 
 
-            background-color: #ffe1ed 
+            background-color: #FF69B4 
 
             color: white; 
 
@@ -74,7 +74,7 @@ samplewebsite
 
             padding: 20px; 
 
-            background-color: #ecbad0
+            background-color: #FFF0F5
 
             border-radius: 8px; 
 
