@@ -20,7 +20,7 @@ samplewebsite
 
             font-family: Impact, sans-serif; 
 
-            background-color: #FFB6C1 
+            background-color: #FFB6C1
 
             margin: 0; 
 
@@ -34,7 +34,7 @@ samplewebsite
 
         header { 
 
-            background-color: #FF69B4 
+            background-color: #FF69B4
 
             color: white; 
 
@@ -60,11 +60,11 @@ samplewebsite
 
             text-decoration: none; 
 
-            color: #4CAF50; 
+            color: #4CAF50;
 
             margin: 0 15px; 
 
-            font-weight: bold; 
+            font-weight: bold;
 
         } 
 
