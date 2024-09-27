@@ -1,5 +1,5 @@
-# Sample
-samplewebsite
+LITERARYMUSE
+Welcome!
 <!DOCTYPE html> 
 
 <html lang="en"> 
@@ -20,13 +20,13 @@ samplewebsite
 
             font-family: Impact, sans-serif; 
 
-            background-color: #FFB6C1
+            background-color: #FFB6C1; 
 
             margin: 0; 
 
             padding: 20px; 
 
-            color: #333; 
+            color: #FFB6C1; 
 
         } 
 
@@ -34,9 +34,9 @@ samplewebsite
 
         header { 
 
-            background-color: #FF69B4
-
-            color: white; 
+            background-color: #FF69B4; 
+             
+            color: Hot Pink; 
 
             padding: 10px 0; 
 
@@ -60,11 +60,11 @@ samplewebsite
 
             text-decoration: none; 
 
-            color: #4CAF50;
+            color: #4CAF50; 
 
             margin: 0 15px; 
 
-            font-weight: bold;
+            font-weight: bold; 
 
         } 
 
@@ -74,7 +74,7 @@ samplewebsite
 
             padding: 20px; 
 
-            background-color: #FFF0F5
+            background-color: #FFF0F5; 
 
             border-radius: 8px; 
 
@@ -128,7 +128,7 @@ samplewebsite
 
         <h2>About This Page</h2> 
 
-        <p>"Where Words Come to Life"</p> 
+        <p>"Where Words Come to Life" Create and share yur creations to this website.</p> 
 
          
 
@@ -136,9 +136,9 @@ samplewebsite
 
         <ul> 
 
-            <li>About.</li> 
+            <li>Share your creations whether it is lyrics, poems, drawings, photos, upload yours in this website.</li> 
 
-            <li>Contact.</li> 
+            <li>Give feedback and ratings to peoples uploaded creations.Be minful and respectful!</li> 
 
             <li>More.</li> 
 
